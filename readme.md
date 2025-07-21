@@ -3,7 +3,7 @@
 
 ### I had a bug in my savefile which make i lose shadowmere's ownership, even when i finished dark brotherhood´s questiline, so i wrote this mod to aways set shadowmere's ownership to me when i load a save file, a quick and easy fix
 
-### Its a .lua script, using "Console Framework UE4SS" resources (OBRConsole) to execute the following console command when i open my save, only recommended to use it/install AFTER you get Shadowmere while doing Dark Brotherhood's questline:
+### Its a .lua script, using "Console Framework UE4SS" resources (OBRConsole) to execute the following console command whenever i load my save, only recommended to use it/install AFTER you get Shadowmere while doing Dark Brotherhood's questline:
 
 ------------------------------
 ### player.setownership(0x0c014fcb)
